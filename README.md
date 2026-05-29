@@ -27,7 +27,7 @@ This repository contains examples, practice programs, and visualizations created
 
 - Python
 - Matplotlib
-- NumPy
+- Pandas
 - Jupyter Notebook
 
 ## 📂 Project Structure
